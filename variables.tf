@@ -1,5 +1,5 @@
 variable "s3_name" {
-  description = "name for s3 bucket"
+  description = "Name for s3 bucket"
 }
 
 variable "aws_account_id" {
